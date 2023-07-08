@@ -1,0 +1,8 @@
+2023-07-06 19:47:50,891 :INFO : test_first :Enter the Homepage
+2023-07-06 19:47:53,062 :INFO : test_first :Clicking thr Sign in button
+2023-07-06 19:47:54,037 :INFO : test_first :Enter the Credentials
+2023-07-06 19:47:56,495 :INFO : test_first :Validating the OTP
+2023-07-06 19:51:33,935 :INFO : test_first :Enter the Homepage
+2023-07-06 19:51:35,092 :INFO : test_first :Clicking thr Sign in button
+2023-07-06 19:51:35,783 :INFO : test_first :Enter the Credentials
+2023-07-06 19:51:37,812 :INFO : test_first :Validating the OTP
